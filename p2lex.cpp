@@ -1,7 +1,6 @@
 //Name: Parth G Patel
 //Class: CS 280
-//Professor: Sean Cusack
-//project #2
+
 
 #include <string>
 #include <map>
