@@ -1,7 +1,6 @@
 // lexical analyzer header
 // cs280
-// problem 2
-// fall 2016
+
 
 #include <string>
 #include <iostream>
