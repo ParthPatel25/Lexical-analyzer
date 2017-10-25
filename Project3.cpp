@@ -1,8 +1,7 @@
 
 // Name : Parth G Patel
 // Class : CS 280
-// Prof : Sean Cusack
-// Project : 3
+
 
 
 #include "p2lex.h"
